@@ -24,10 +24,10 @@ The data used is provided by [kaggle](https://www.kaggle.com/olistbr/brazilian-e
 
 The work has been broken down in stages and summary slides have been created for a quick look at the results.
 
-* [Data Wrangling and Cleaning](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/1Project_Proposal_and_Cleaning_Steps.ipynb) - Cleaning steps with justification.
-* [Exploratory analysis](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/2Exploratory_Analysis.ipynb) - Analysis was conducted to reveal product preferences and seasonal trends in the data.
-* [LigthFM recommender system](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/3LightFM_Recommender_System.ipynb) - Implemented lightfms recommender algorithm comparing results with and without clustered user behavior.
-* [Clustering with KMeans to determine user groups](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/4Clustering_product_categories.ipynb) - Created 15 groups to place users in for use in LightFM as user features.
-* [Spark ALS Recommendation system for comparison](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/5Spark_recommender.ipynb) - Created alternative algortithm for alternate baseline comparison.
-* [Summary Slides](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/Increasing_Customer_Loyalty_with_LightFMs_Recommendation%20Algorithm.pdf) Link to ppt
+* [Data Wrangling and Cleaning]([https://github.com/RAHULMANDHABALA/Olist_Recommender_System/blob/main/exploration/1Project_Proposal_and_Cleaning_Steps.ipynb]) - Cleaning steps with justification.
+* [Exploratory analysis]([https://github.com/RAHULMANDHABALA/Olist_Recommender_System/blob/main/exploration/2Exploratory_Analysis.ipynb]) - Analysis was conducted to reveal product preferences and seasonal trends in the data.
+* [LigthFM recommender system](https://github.com/RAHULMANDHABALA/Olist_Recommender_System/blob/main/exploration/3LightFM_Recommender_System.ipynb) - Implemented lightfms recommender algorithm comparing results with and without clustered user behavior.
+* [Clustering with KMeans to determine user groups](https://github.com/RAHULMANDHABALA/Olist_Recommender_System/blob/main/exploration/4Clustering_product_categories.ipynb) - Created 15 groups to place users in for use in LightFM as user features.
+* [Spark ALS Recommendation system for comparison](https://github.com/RAHULMANDHABALA/Olist_Recommender_System/blob/main/exploration/5Spark_recommender.ipynb) - Created alternative algortithm for alternate baseline comparison.
+* [Summary Slides](https://github.com/RAHULMANDHABALA/Olist_Recommender_System/blob/main/exploration/Increasing_Customer_Loyalty_with_LightFMs_Recommendation%20Algorithm.pdf) Link to ppt
 
