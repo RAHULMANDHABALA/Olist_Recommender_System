@@ -31,10 +31,3 @@ The work has been broken down in stages and summary slides have been created for
 * [Spark ALS Recommendation system for comparison](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/5Spark_recommender.ipynb) - Created alternative algortithm for alternate baseline comparison.
 * [Summary Slides](https://github.com/merrillm1/Olist_Recommender_System/blob/master/exploration/Increasing_Customer_Loyalty_with_LightFMs_Recommendation%20Algorithm.pdf) Link to ppt
 
-## Author
-
-* [Matthew Merrill](https://www.linkedin.com/in/matthew-merrill-246a1b55/)
-
-## Acknowledgements
-
-* **Dhiraj Khanna** - *Springboard mentor* 
